@@ -11,7 +11,7 @@ public class Main {
         lista.add(new Moto("Hornet", 2012, 32000, 600));
 
         for (Veiculo v : lista) {
-            v.exibirInfo();  // polimorfismo
+            v.exibirInfo();  
         }
     }
 }
