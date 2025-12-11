@@ -1,0 +1,2 @@
+No sistema, o veículo é a classe principal. Já carro e moto pegam os dados do veículo e adicionam seus dados próprias. 
+Cada uma mostra suas características, usando o mesmo método exibirInfo(). Quando o sistema inicia, percorre a lista de veículos, ele consegue mostrar corretamente os dados de cada tipo de veículo, mesmo usando apenas o método da classe base.
