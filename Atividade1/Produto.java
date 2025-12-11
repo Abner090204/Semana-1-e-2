@@ -15,7 +15,7 @@ public class Produto {
         System.out.println("Produto: " + nome);
         System.out.println("Preço: R$ " + preco);
         System.out.println("Quantidade: " + quantidade);
-        System.out.println("----");
+        System.out.println("");
     }
 
     public double valorTotalEmEstoque() {
